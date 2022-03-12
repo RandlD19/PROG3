@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{09280C3C-3CD5-4378-92BA-F806D50B46B4}|Default">
+  <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Obrati FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.R2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="test/Program.cs">
+    <Files>
+      <File FileName="Pi_in_Monte_Carlo/Pi_in_MonteCarlo.cs" Line="28" Column="1" />
+      <File FileName="Karo/Karo.cs" Line="57" Column="13" />
+      <File FileName="test/Program.cs" Line="15" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Vaje_1" expanded="True">
+            <Node name="Kaj_naredim_narobe" expanded="True" />
+            <Node name="Karo" expanded="True" />
+            <Node name="Nakljucna_stevila" expanded="True" />
+            <Node name="Obrati" expanded="True" />
+            <Node name="Pi_in_Monte_Carlo" expanded="True" />
+            <Node name="Piton_na_obisku" expanded="True" />
+            <Node name="R2" expanded="True" />
+            <Node name="test" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Pi__in__Monte__Carlo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Nakljucna__stevila FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Piton__na__obisku FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Karo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Kaj__naredim__narobe FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

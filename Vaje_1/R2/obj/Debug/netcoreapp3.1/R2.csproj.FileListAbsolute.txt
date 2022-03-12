@@ -1,0 +1,13 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/R2/bin/Debug/netcoreapp3.1/R2.deps.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/R2/bin/Debug/netcoreapp3.1/R2.runtimeconfig.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/R2/bin/Debug/netcoreapp3.1/R2.runtimeconfig.dev.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/R2/bin/Debug/netcoreapp3.1/R2.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/R2/bin/Debug/netcoreapp3.1/R2.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/R2/obj/Debug/netcoreapp3.1/R2.csproj.AssemblyReference.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/R2/obj/Debug/netcoreapp3.1/R2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/R2/obj/Debug/netcoreapp3.1/R2.AssemblyInfoInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/R2/obj/Debug/netcoreapp3.1/R2.AssemblyInfo.cs
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/R2/obj/Debug/netcoreapp3.1/R2.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/R2/obj/Debug/netcoreapp3.1/R2.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/R2/obj/Debug/netcoreapp3.1/R2.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/R2/obj/Debug/netcoreapp3.1/R2.genruntimeconfig.cache

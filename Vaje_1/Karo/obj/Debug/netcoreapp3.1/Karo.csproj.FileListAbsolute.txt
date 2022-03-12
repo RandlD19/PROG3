@@ -1,0 +1,12 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/Karo/bin/Debug/netcoreapp3.1/Karo.deps.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/Karo/bin/Debug/netcoreapp3.1/Karo.runtimeconfig.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/Karo/bin/Debug/netcoreapp3.1/Karo.runtimeconfig.dev.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/Karo/bin/Debug/netcoreapp3.1/Karo.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/Karo/bin/Debug/netcoreapp3.1/Karo.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/Karo/obj/Debug/netcoreapp3.1/Karo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/Karo/obj/Debug/netcoreapp3.1/Karo.AssemblyInfoInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/Karo/obj/Debug/netcoreapp3.1/Karo.AssemblyInfo.cs
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/Karo/obj/Debug/netcoreapp3.1/Karo.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/Karo/obj/Debug/netcoreapp3.1/Karo.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/Karo/obj/Debug/netcoreapp3.1/Karo.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_1/Karo/obj/Debug/netcoreapp3.1/Karo.genruntimeconfig.cache
