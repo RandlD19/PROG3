@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Lovljenje_napak/1.0.0": {
+        "runtime": {
+          "Lovljenje_napak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lovljenje_napak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

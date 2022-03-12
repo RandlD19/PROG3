@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Izpis_tabele/1.0.0": {
+        "runtime": {
+          "Izpis_tabele.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Izpis_tabele/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

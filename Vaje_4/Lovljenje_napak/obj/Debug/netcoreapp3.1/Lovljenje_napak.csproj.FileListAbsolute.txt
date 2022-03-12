@@ -1,0 +1,13 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Lovljenje_napak/bin/Debug/netcoreapp3.1/Lovljenje_napak.deps.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Lovljenje_napak/bin/Debug/netcoreapp3.1/Lovljenje_napak.runtimeconfig.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Lovljenje_napak/bin/Debug/netcoreapp3.1/Lovljenje_napak.runtimeconfig.dev.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Lovljenje_napak/bin/Debug/netcoreapp3.1/Lovljenje_napak.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Lovljenje_napak/bin/Debug/netcoreapp3.1/Lovljenje_napak.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Lovljenje_napak/obj/Debug/netcoreapp3.1/Lovljenje_napak.csproj.AssemblyReference.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Lovljenje_napak/obj/Debug/netcoreapp3.1/Lovljenje_napak.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Lovljenje_napak/obj/Debug/netcoreapp3.1/Lovljenje_napak.AssemblyInfoInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Lovljenje_napak/obj/Debug/netcoreapp3.1/Lovljenje_napak.AssemblyInfo.cs
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Lovljenje_napak/obj/Debug/netcoreapp3.1/Lovljenje_napak.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Lovljenje_napak/obj/Debug/netcoreapp3.1/Lovljenje_napak.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Lovljenje_napak/obj/Debug/netcoreapp3.1/Lovljenje_napak.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Lovljenje_napak/obj/Debug/netcoreapp3.1/Lovljenje_napak.genruntimeconfig.cache
