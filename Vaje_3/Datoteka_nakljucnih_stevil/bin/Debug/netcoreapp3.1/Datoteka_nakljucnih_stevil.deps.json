@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Datoteka_nakljucnih_stevil/1.0.0": {
+        "runtime": {
+          "Datoteka_nakljucnih_stevil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Datoteka_nakljucnih_stevil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

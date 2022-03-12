@@ -1,0 +1,13 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_2/Gremo_v_krog1/bin/Debug/netcoreapp3.1/Gremo_v_krog.deps.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_2/Gremo_v_krog1/bin/Debug/netcoreapp3.1/Gremo_v_krog.runtimeconfig.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_2/Gremo_v_krog1/bin/Debug/netcoreapp3.1/Gremo_v_krog.runtimeconfig.dev.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_2/Gremo_v_krog1/bin/Debug/netcoreapp3.1/Gremo_v_krog.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_2/Gremo_v_krog1/bin/Debug/netcoreapp3.1/Gremo_v_krog.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_2/Gremo_v_krog1/obj/Debug/netcoreapp3.1/Gremo_v_krog.csproj.AssemblyReference.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_2/Gremo_v_krog1/obj/Debug/netcoreapp3.1/Gremo_v_krog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_2/Gremo_v_krog1/obj/Debug/netcoreapp3.1/Gremo_v_krog.AssemblyInfoInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_2/Gremo_v_krog1/obj/Debug/netcoreapp3.1/Gremo_v_krog.AssemblyInfo.cs
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_2/Gremo_v_krog1/obj/Debug/netcoreapp3.1/Gremo_v_krog.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_2/Gremo_v_krog1/obj/Debug/netcoreapp3.1/Gremo_v_krog.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_2/Gremo_v_krog1/obj/Debug/netcoreapp3.1/Gremo_v_krog.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_2/Gremo_v_krog1/obj/Debug/netcoreapp3.1/Gremo_v_krog.genruntimeconfig.cache

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{F5E7E73F-3C40-4060-BB93-22452E451EA8}|Default">
+  <MonoDevelop.Ide.ItemProperties.Hisne__stevilke PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Pek/Pek.cs">
+    <Files>
+      <File FileName="Pek/Pek.cs" Line="9" Column="7" />
+      <File FileName="Gremo_v_krog1/Gremo_v_krog.cs" Line="9" Column="13" />
+      <File FileName="Hisne_stevilke/Hisne_stevilke.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Vaje_2" expanded="True">
+            <Node name="Gremo_v_krog" expanded="True" />
+            <Node name="Hisne_stevilke" expanded="True" />
+            <Node name="Pek" expanded="True">
+              <Node name="Pek.cs" selected="True" />
+            </Node>
+            <Node name="Piton_na_obisku" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Pek PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Gremo__v__krog PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Presledki__in__besede PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

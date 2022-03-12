@@ -1,0 +1,12 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Datoteka_nakljucnih_stevil/bin/Debug/netcoreapp3.1/Datoteka_nakljucnih_stevil.deps.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Datoteka_nakljucnih_stevil/bin/Debug/netcoreapp3.1/Datoteka_nakljucnih_stevil.runtimeconfig.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Datoteka_nakljucnih_stevil/bin/Debug/netcoreapp3.1/Datoteka_nakljucnih_stevil.runtimeconfig.dev.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Datoteka_nakljucnih_stevil/bin/Debug/netcoreapp3.1/Datoteka_nakljucnih_stevil.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Datoteka_nakljucnih_stevil/bin/Debug/netcoreapp3.1/Datoteka_nakljucnih_stevil.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Datoteka_nakljucnih_stevil/obj/Debug/netcoreapp3.1/Datoteka_nakljucnih_stevil.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Datoteka_nakljucnih_stevil/obj/Debug/netcoreapp3.1/Datoteka_nakljucnih_stevil.AssemblyInfoInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Datoteka_nakljucnih_stevil/obj/Debug/netcoreapp3.1/Datoteka_nakljucnih_stevil.AssemblyInfo.cs
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Datoteka_nakljucnih_stevil/obj/Debug/netcoreapp3.1/Datoteka_nakljucnih_stevil.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Datoteka_nakljucnih_stevil/obj/Debug/netcoreapp3.1/Datoteka_nakljucnih_stevil.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Datoteka_nakljucnih_stevil/obj/Debug/netcoreapp3.1/Datoteka_nakljucnih_stevil.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Datoteka_nakljucnih_stevil/obj/Debug/netcoreapp3.1/Datoteka_nakljucnih_stevil.genruntimeconfig.cache

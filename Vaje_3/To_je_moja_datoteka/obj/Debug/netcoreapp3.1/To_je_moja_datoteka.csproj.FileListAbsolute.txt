@@ -1,0 +1,13 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/To_je_moja_datoteka/bin/Debug/netcoreapp3.1/To_je_moja_datoteka.deps.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/To_je_moja_datoteka/bin/Debug/netcoreapp3.1/To_je_moja_datoteka.runtimeconfig.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/To_je_moja_datoteka/bin/Debug/netcoreapp3.1/To_je_moja_datoteka.runtimeconfig.dev.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/To_je_moja_datoteka/bin/Debug/netcoreapp3.1/To_je_moja_datoteka.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/To_je_moja_datoteka/bin/Debug/netcoreapp3.1/To_je_moja_datoteka.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/To_je_moja_datoteka/obj/Debug/netcoreapp3.1/To_je_moja_datoteka.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/To_je_moja_datoteka/obj/Debug/netcoreapp3.1/To_je_moja_datoteka.AssemblyInfoInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/To_je_moja_datoteka/obj/Debug/netcoreapp3.1/To_je_moja_datoteka.AssemblyInfo.cs
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/To_je_moja_datoteka/obj/Debug/netcoreapp3.1/To_je_moja_datoteka.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/To_je_moja_datoteka/obj/Debug/netcoreapp3.1/To_je_moja_datoteka.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/To_je_moja_datoteka/obj/Debug/netcoreapp3.1/To_je_moja_datoteka.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/To_je_moja_datoteka/obj/Debug/netcoreapp3.1/To_je_moja_datoteka.genruntimeconfig.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/To_je_moja_datoteka/obj/Debug/netcoreapp3.1/To_je_moja_datoteka.csproj.AssemblyReference.cache

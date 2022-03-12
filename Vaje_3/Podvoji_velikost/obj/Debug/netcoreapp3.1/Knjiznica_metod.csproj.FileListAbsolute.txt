@@ -1,0 +1,13 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Podvoji_velikost/bin/Debug/netcoreapp3.1/Knjiznica_metod.deps.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Podvoji_velikost/bin/Debug/netcoreapp3.1/Knjiznica_metod.runtimeconfig.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Podvoji_velikost/bin/Debug/netcoreapp3.1/Knjiznica_metod.runtimeconfig.dev.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Podvoji_velikost/bin/Debug/netcoreapp3.1/Knjiznica_metod.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Podvoji_velikost/bin/Debug/netcoreapp3.1/Knjiznica_metod.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Podvoji_velikost/obj/Debug/netcoreapp3.1/Knjiznica_metod.csproj.AssemblyReference.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Podvoji_velikost/obj/Debug/netcoreapp3.1/Knjiznica_metod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Podvoji_velikost/obj/Debug/netcoreapp3.1/Knjiznica_metod.AssemblyInfoInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Podvoji_velikost/obj/Debug/netcoreapp3.1/Knjiznica_metod.AssemblyInfo.cs
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Podvoji_velikost/obj/Debug/netcoreapp3.1/Knjiznica_metod.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Podvoji_velikost/obj/Debug/netcoreapp3.1/Knjiznica_metod.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Podvoji_velikost/obj/Debug/netcoreapp3.1/Knjiznica_metod.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Podvoji_velikost/obj/Debug/netcoreapp3.1/Knjiznica_metod.genruntimeconfig.cache

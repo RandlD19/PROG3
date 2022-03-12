@@ -1,0 +1,12 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Zamenjava_elementov/bin/Debug/netcoreapp3.1/Zamenjava_elementov.deps.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Zamenjava_elementov/bin/Debug/netcoreapp3.1/Zamenjava_elementov.runtimeconfig.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Zamenjava_elementov/bin/Debug/netcoreapp3.1/Zamenjava_elementov.runtimeconfig.dev.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Zamenjava_elementov/bin/Debug/netcoreapp3.1/Zamenjava_elementov.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Zamenjava_elementov/bin/Debug/netcoreapp3.1/Zamenjava_elementov.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Zamenjava_elementov/obj/Debug/netcoreapp3.1/Zamenjava_elementov.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Zamenjava_elementov/obj/Debug/netcoreapp3.1/Zamenjava_elementov.AssemblyInfoInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Zamenjava_elementov/obj/Debug/netcoreapp3.1/Zamenjava_elementov.AssemblyInfo.cs
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Zamenjava_elementov/obj/Debug/netcoreapp3.1/Zamenjava_elementov.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Zamenjava_elementov/obj/Debug/netcoreapp3.1/Zamenjava_elementov.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Zamenjava_elementov/obj/Debug/netcoreapp3.1/Zamenjava_elementov.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_3/Zamenjava_elementov/obj/Debug/netcoreapp3.1/Zamenjava_elementov.genruntimeconfig.cache

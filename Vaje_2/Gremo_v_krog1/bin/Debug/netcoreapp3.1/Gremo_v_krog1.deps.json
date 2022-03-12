@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Gremo_v_krog1/1.0.0": {
+        "runtime": {
+          "Gremo_v_krog1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Gremo_v_krog1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

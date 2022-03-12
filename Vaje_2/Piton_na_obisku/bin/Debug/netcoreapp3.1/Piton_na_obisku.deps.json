@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Piton_na_obisku/1.0.0": {
+        "runtime": {
+          "Piton_na_obisku.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Piton_na_obisku/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

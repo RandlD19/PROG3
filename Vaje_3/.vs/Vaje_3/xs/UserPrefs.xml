@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{82826288-DF2D-402B-BC0C-23169AC259C9}|Default">
+  <MonoDevelop.Ide.ItemProperties.Knjiznica__metod PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Zamenjava__elementov PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Datoteka__nakljucnih__stevil PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.To__je__moja__datoteka PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Datoteka_nakljucnih_stevil/Datoteka_nakljucnih_stevil.cs">
+    <Files>
+      <File FileName="To_je_moja_datoteka/To_je_moja_datoteka.cs" Line="45" Column="1" />
+      <File FileName="Datoteka_nakljucnih_stevil/Datoteka_nakljucnih_stevil.cs" Line="10" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Vaje_3" expanded="True" selected="True">
+            <Node name="Solution Items" expanded="True" />
+            <Node name="Datoteka_nakljucnih_stevil" expanded="True" />
+            <Node name="Knjiznica_metod" expanded="True" />
+            <Node name="To_je_moja_datoteka" expanded="True" />
+            <Node name="Zamenjava_elementov" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
