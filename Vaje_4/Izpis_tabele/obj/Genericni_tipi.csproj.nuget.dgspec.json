@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Izpis_tabele/Genericni_tipi.csproj": {}
+    "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_4/Izpis_tabele/Genericni_tipi.csproj": {}
   },
   "projects": {
-    "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Izpis_tabele/Genericni_tipi.csproj": {
+    "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_4/Izpis_tabele/Genericni_tipi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Izpis_tabele/Genericni_tipi.csproj",
+        "projectUniqueName": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_4/Izpis_tabele/Genericni_tipi.csproj",
         "projectName": "Genericni_tipi",
-        "projectPath": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Izpis_tabele/Genericni_tipi.csproj",
+        "projectPath": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_4/Izpis_tabele/Genericni_tipi.csproj",
         "packagesPath": "/Users/damijanrandl/.nuget/packages/",
-        "outputPath": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Izpis_tabele/obj/",
+        "outputPath": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_4/Izpis_tabele/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/damijanrandl/.config/NuGet/NuGet.Config"

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Lovljenje_napak/Lovljenje_napak.csproj",
+      "projectUniqueName": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_4/Lovljenje_napak/Lovljenje_napak.csproj",
       "projectName": "Lovljenje_napak",
-      "projectPath": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Lovljenje_napak/Lovljenje_napak.csproj",
+      "projectPath": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_4/Lovljenje_napak/Lovljenje_napak.csproj",
       "packagesPath": "/Users/damijanrandl/.nuget/packages/",
-      "outputPath": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/Lovljenje_napak/obj/",
+      "outputPath": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_4/Lovljenje_napak/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/damijanrandl/.config/NuGet/NuGet.Config"

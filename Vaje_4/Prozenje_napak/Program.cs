@@ -21,7 +21,7 @@ namespace Prozenje_napak
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($"NAPAKA: {beri} ni celo število!");
+                    Console.WriteLine($"NAPAKA: {beri} ni celo število!!");
                 }
 
             }

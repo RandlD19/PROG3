@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/DopolniProgram2/DopolniProgram2.csproj": {}
+    "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_4/DopolniProgram2/DopolniProgram2.csproj": {}
   },
   "projects": {
-    "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/DopolniProgram2/DopolniProgram2.csproj": {
+    "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_4/DopolniProgram2/DopolniProgram2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/DopolniProgram2/DopolniProgram2.csproj",
+        "projectUniqueName": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_4/DopolniProgram2/DopolniProgram2.csproj",
         "projectName": "DopolniProgram2",
-        "projectPath": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/DopolniProgram2/DopolniProgram2.csproj",
+        "projectPath": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_4/DopolniProgram2/DopolniProgram2.csproj",
         "packagesPath": "/Users/damijanrandl/.nuget/packages/",
-        "outputPath": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/Vaje_4/DopolniProgram2/obj/",
+        "outputPath": "/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_4/DopolniProgram2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/damijanrandl/.config/NuGet/NuGet.Config"
