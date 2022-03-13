@@ -1,0 +1,14 @@
+C:/Users/Liam/source/repos/Izjeme/Izjeme/bin/Debug/Izjeme.exe.config
+C:/Users/Liam/source/repos/Izjeme/Izjeme/bin/Debug/Izjeme.exe
+C:/Users/Liam/source/repos/Izjeme/Izjeme/bin/Debug/Izjeme.pdb
+C:/Users/Liam/source/repos/Izjeme/Izjeme/obj/Debug/UstvariUlovi.csproj.AssemblyReference.cache
+C:/Users/Liam/source/repos/Izjeme/Izjeme/obj/Debug/UstvariUlovi.csproj.CoreCompileInputs.cache
+C:/Users/Liam/source/repos/Izjeme/Izjeme/obj/Debug/Izjeme.exe
+C:/Users/Liam/source/repos/Izjeme/Izjeme/obj/Debug/Izjeme.pdb
+/Users/damijanrandl/Downloads/Izjeme/Izjeme/bin/Debug/Izjeme.exe.config
+/Users/damijanrandl/Downloads/Izjeme/Izjeme/bin/Debug/Izjeme.exe
+/Users/damijanrandl/Downloads/Izjeme/Izjeme/bin/Debug/Izjeme.pdb
+/Users/damijanrandl/Downloads/Izjeme/Izjeme/obj/Debug/UstvariUlovi.csproj.AssemblyReference.cache
+/Users/damijanrandl/Downloads/Izjeme/Izjeme/obj/Debug/UstvariUlovi.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Downloads/Izjeme/Izjeme/obj/Debug/Izjeme.exe
+/Users/damijanrandl/Downloads/Izjeme/Izjeme/obj/Debug/Izjeme.pdb

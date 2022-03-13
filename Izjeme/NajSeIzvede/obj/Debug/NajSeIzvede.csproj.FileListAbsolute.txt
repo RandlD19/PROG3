@@ -1,0 +1,14 @@
+C:/Users/Liam/source/repos/Izjeme/NajSeIzvede/bin/Debug/NajSeIzvede.exe.config
+C:/Users/Liam/source/repos/Izjeme/NajSeIzvede/bin/Debug/NajSeIzvede.exe
+C:/Users/Liam/source/repos/Izjeme/NajSeIzvede/bin/Debug/NajSeIzvede.pdb
+C:/Users/Liam/source/repos/Izjeme/NajSeIzvede/obj/Debug/NajSeIzvede.csproj.CoreCompileInputs.cache
+C:/Users/Liam/source/repos/Izjeme/NajSeIzvede/obj/Debug/NajSeIzvede.exe
+C:/Users/Liam/source/repos/Izjeme/NajSeIzvede/obj/Debug/NajSeIzvede.pdb
+C:/Users/Liam/source/repos/Izjeme/NajSeIzvede/obj/Debug/NajSeIzvede.csproj.AssemblyReference.cache
+/Users/damijanrandl/Downloads/Izjeme/NajSeIzvede/bin/Debug/NajSeIzvede.exe.config
+/Users/damijanrandl/Downloads/Izjeme/NajSeIzvede/bin/Debug/NajSeIzvede.exe
+/Users/damijanrandl/Downloads/Izjeme/NajSeIzvede/bin/Debug/NajSeIzvede.pdb
+/Users/damijanrandl/Downloads/Izjeme/NajSeIzvede/obj/Debug/NajSeIzvede.csproj.AssemblyReference.cache
+/Users/damijanrandl/Downloads/Izjeme/NajSeIzvede/obj/Debug/NajSeIzvede.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Downloads/Izjeme/NajSeIzvede/obj/Debug/NajSeIzvede.exe
+/Users/damijanrandl/Downloads/Izjeme/NajSeIzvede/obj/Debug/NajSeIzvede.pdb

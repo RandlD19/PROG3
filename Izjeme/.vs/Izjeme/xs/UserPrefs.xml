@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{FF47AA41-04E5-42A9-AB44-09B5A3742D37}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UstvariUlovi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NajSeIzvede/Program.cs">
+    <Files>
+      <File FileName="NajSeIzvede/Program.cs" Line="53" Column="46" />
+      <File FileName="Izjeme/Program.cs" Line="51" Column="1" />
+      <File FileName="NajSeIzvede/ignoriraj/Analitik.cs" Line="415" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Izjeme" expanded="True">
+            <Node name="NajSeIzvede" expanded="True">
+              <Node name="ignoriraj" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.NajSeIzvede PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

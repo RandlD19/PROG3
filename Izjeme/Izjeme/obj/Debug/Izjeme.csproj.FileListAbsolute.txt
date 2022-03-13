@@ -1,0 +1,7 @@
+C:\Users\Liam\source\repos\Izjeme\Izjeme\obj\Debug\Izjeme.csproj.AssemblyReference.cache
+C:\Users\Liam\source\repos\Izjeme\Izjeme\obj\Debug\Izjeme.csproj.CoreCompileInputs.cache
+C:\Users\Liam\source\repos\Izjeme\Izjeme\bin\Debug\Izjeme.exe.config
+C:\Users\Liam\source\repos\Izjeme\Izjeme\bin\Debug\Izjeme.exe
+C:\Users\Liam\source\repos\Izjeme\Izjeme\bin\Debug\Izjeme.pdb
+C:\Users\Liam\source\repos\Izjeme\Izjeme\obj\Debug\Izjeme.exe
+C:\Users\Liam\source\repos\Izjeme\Izjeme\obj\Debug\Izjeme.pdb
