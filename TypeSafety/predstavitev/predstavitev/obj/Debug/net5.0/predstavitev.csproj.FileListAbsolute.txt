@@ -1,0 +1,63 @@
+C:/Users/Lenovo/source/repos/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.exe
+C:/Users/Lenovo/source/repos/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.deps.json
+C:/Users/Lenovo/source/repos/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.runtimeconfig.json
+C:/Users/Lenovo/source/repos/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.runtimeconfig.dev.json
+C:/Users/Lenovo/source/repos/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.dll
+C:/Users/Lenovo/source/repos/predstavitev/predstavitev/bin/Debug/net5.0/ref/predstavitev.dll
+C:/Users/Lenovo/source/repos/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.pdb
+C:/Users/Lenovo/source/repos/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.csproj.AssemblyReference.cache
+C:/Users/Lenovo/source/repos/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Lenovo/source/repos/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.AssemblyInfoInputs.cache
+C:/Users/Lenovo/source/repos/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.AssemblyInfo.cs
+C:/Users/Lenovo/source/repos/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.csproj.CoreCompileInputs.cache
+C:/Users/Lenovo/source/repos/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.dll
+C:/Users/Lenovo/source/repos/predstavitev/predstavitev/obj/Debug/net5.0/ref/predstavitev.dll
+C:/Users/Lenovo/source/repos/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.pdb
+C:/Users/Lenovo/source/repos/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.genruntimeconfig.cache
+C:/Users/Lenovo/Desktop/1faks/prakticna 3letnik/prog3/predstavitev/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.exe
+C:/Users/Lenovo/Desktop/1faks/prakticna 3letnik/prog3/predstavitev/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.deps.json
+C:/Users/Lenovo/Desktop/1faks/prakticna 3letnik/prog3/predstavitev/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.runtimeconfig.json
+C:/Users/Lenovo/Desktop/1faks/prakticna 3letnik/prog3/predstavitev/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.runtimeconfig.dev.json
+C:/Users/Lenovo/Desktop/1faks/prakticna 3letnik/prog3/predstavitev/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.dll
+C:/Users/Lenovo/Desktop/1faks/prakticna 3letnik/prog3/predstavitev/predstavitev/predstavitev/bin/Debug/net5.0/ref/predstavitev.dll
+C:/Users/Lenovo/Desktop/1faks/prakticna 3letnik/prog3/predstavitev/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.pdb
+C:/Users/Lenovo/Desktop/1faks/prakticna 3letnik/prog3/predstavitev/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.csproj.AssemblyReference.cache
+C:/Users/Lenovo/Desktop/1faks/prakticna 3letnik/prog3/predstavitev/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Lenovo/Desktop/1faks/prakticna 3letnik/prog3/predstavitev/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.AssemblyInfoInputs.cache
+C:/Users/Lenovo/Desktop/1faks/prakticna 3letnik/prog3/predstavitev/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.AssemblyInfo.cs
+C:/Users/Lenovo/Desktop/1faks/prakticna 3letnik/prog3/predstavitev/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.csproj.CoreCompileInputs.cache
+C:/Users/Lenovo/Desktop/1faks/prakticna 3letnik/prog3/predstavitev/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.dll
+C:/Users/Lenovo/Desktop/1faks/prakticna 3letnik/prog3/predstavitev/predstavitev/predstavitev/obj/Debug/net5.0/ref/predstavitev.dll
+C:/Users/Lenovo/Desktop/1faks/prakticna 3letnik/prog3/predstavitev/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.pdb
+C:/Users/Lenovo/Desktop/1faks/prakticna 3letnik/prog3/predstavitev/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.genruntimeconfig.cache
+C:/Users/Matija Lokar/Desktop/TypeSafety/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.exe
+C:/Users/Matija Lokar/Desktop/TypeSafety/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.deps.json
+C:/Users/Matija Lokar/Desktop/TypeSafety/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.runtimeconfig.json
+C:/Users/Matija Lokar/Desktop/TypeSafety/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.runtimeconfig.dev.json
+C:/Users/Matija Lokar/Desktop/TypeSafety/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.dll
+C:/Users/Matija Lokar/Desktop/TypeSafety/predstavitev/predstavitev/bin/Debug/net5.0/ref/predstavitev.dll
+C:/Users/Matija Lokar/Desktop/TypeSafety/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.pdb
+C:/Users/Matija Lokar/Desktop/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.csproj.AssemblyReference.cache
+C:/Users/Matija Lokar/Desktop/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/Matija Lokar/Desktop/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.AssemblyInfoInputs.cache
+C:/Users/Matija Lokar/Desktop/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.AssemblyInfo.cs
+C:/Users/Matija Lokar/Desktop/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.csproj.CoreCompileInputs.cache
+C:/Users/Matija Lokar/Desktop/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.dll
+C:/Users/Matija Lokar/Desktop/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/ref/predstavitev.dll
+C:/Users/Matija Lokar/Desktop/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.pdb
+C:/Users/Matija Lokar/Desktop/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.genruntimeconfig.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/TypeSafety/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.deps.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/TypeSafety/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.runtimeconfig.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/TypeSafety/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.runtimeconfig.dev.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/TypeSafety/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/TypeSafety/predstavitev/predstavitev/bin/Debug/net5.0/ref/predstavitev.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/TypeSafety/predstavitev/predstavitev/bin/Debug/net5.0/predstavitev.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.csproj.AssemblyReference.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.AssemblyInfoInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.AssemblyInfo.cs
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/ref/predstavitev.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/TypeSafety/predstavitev/predstavitev/obj/Debug/net5.0/predstavitev.genruntimeconfig.cache

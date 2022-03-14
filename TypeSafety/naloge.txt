@@ -1,0 +1,8 @@
+1. naloga:
+Definiraj funkcijo sestej(tab1, tab2), ki vrne tabelo, ki ima na i-tem mestu vsoto tab1[i] in tab2[i].
+(števila seštevamo klasično, ostale objekte pretvorimo v nize in jih seštevamo kot nize)
+
+
+2. naloga:
+Imamo obtežene funkcije z imenom test, ki sprejmejo eno spremenljivko. Napiši program, ki prebere vnos
+in izpiše rezultat te funkcije. Pazi na pretvarjanje tipov, saj prebran podatek bo vedno niz!

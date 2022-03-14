@@ -1,0 +1,13 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Type_safety/Type_safety/bin/Debug/netcoreapp3.1/Type_safety.deps.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Type_safety/Type_safety/bin/Debug/netcoreapp3.1/Type_safety.runtimeconfig.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Type_safety/Type_safety/bin/Debug/netcoreapp3.1/Type_safety.runtimeconfig.dev.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Type_safety/Type_safety/bin/Debug/netcoreapp3.1/Type_safety.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Type_safety/Type_safety/bin/Debug/netcoreapp3.1/Type_safety.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Type_safety/Type_safety/obj/Debug/netcoreapp3.1/Type_safety.csproj.AssemblyReference.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Type_safety/Type_safety/obj/Debug/netcoreapp3.1/Type_safety.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Type_safety/Type_safety/obj/Debug/netcoreapp3.1/Type_safety.AssemblyInfoInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Type_safety/Type_safety/obj/Debug/netcoreapp3.1/Type_safety.AssemblyInfo.cs
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Type_safety/Type_safety/obj/Debug/netcoreapp3.1/Type_safety.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Type_safety/Type_safety/obj/Debug/netcoreapp3.1/Type_safety.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Type_safety/Type_safety/obj/Debug/netcoreapp3.1/Type_safety.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Type_safety/Type_safety/obj/Debug/netcoreapp3.1/Type_safety.genruntimeconfig.cache

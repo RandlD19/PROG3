@@ -1,33 +1,40 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{A41BFE28-4E8E-4B01-B09D-2D85597296DD}|Default">
-  <MonoDevelop.Ide.ItemProperties.Prozenje__napak PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Izpis_tabele/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.DopolniProgram1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Genericni__tipi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.DopolniProgram2 FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Prozenje_napak/Program.cs">
     <Files>
       <File FileName="Izpis_tabele/Program.cs" Line="150" Column="1" />
-      <File FileName="DopolniProgram1/Program.cs" />
-      <File FileName="Lovljenje_napak/Program.cs" />
+      <File FileName="DopolniProgram1/Program.cs" Line="1" Column="1" />
+      <File FileName="Lovljenje_napak/Program.cs" Line="1" Column="1" />
+      <File FileName="DopolniProgram2/DopolniProgram2.cs" Line="1" Column="1" />
+      <File FileName="Prozenje_napak/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Vaje_4" expanded="True">
             <Node name="DopolniProgram1" expanded="True" />
-            <Node name="Genericni_tipi" expanded="True">
+            <Node name="DopolniProgram2" expanded="True" />
+            <Node name="Genericni_tipi" expanded="True" />
+            <Node name="Lovljenje_napak" expanded="True" />
+            <Node name="Prozenje_napak" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
-            <Node name="Prozenje_napak" expanded="True" />
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Lovljenje__napak PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Genericni__tipi PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.DopolniProgram2 FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.DopolniProgram1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Prozenje__napak PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
