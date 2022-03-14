@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{26E7282F-4929-414C-BDCF-FF4AE2DD8033}|Default">
+  <MonoDevelop.Ide.ItemProperties.Zoprna__sedmica PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mnozimo_se/Program.cs">
+    <Files>
+      <File FileName="Koliko_najvecjih/Program.cs" Line="45" Column="17" />
+      <File FileName="Zoprna_sedmica/Program.cs" Line="76" Column="51" />
+      <File FileName="Mnozimo_se/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Vaje_5" expanded="True">
+            <Node name="Koliko_najvecjih" expanded="True" />
+            <Node name="Mnozimo_se" expanded="True" selected="True" />
+            <Node name="Zoprna_sedmica" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Mnozimo__se FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Koliko__najvecjih PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

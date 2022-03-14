@@ -1,0 +1,13 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Koliko_najvecjih/bin/Debug/netcoreapp3.1/Koliko_najvecjih.deps.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Koliko_najvecjih/bin/Debug/netcoreapp3.1/Koliko_najvecjih.runtimeconfig.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Koliko_najvecjih/bin/Debug/netcoreapp3.1/Koliko_najvecjih.runtimeconfig.dev.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Koliko_najvecjih/bin/Debug/netcoreapp3.1/Koliko_najvecjih.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Koliko_najvecjih/bin/Debug/netcoreapp3.1/Koliko_najvecjih.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Koliko_najvecjih/obj/Debug/netcoreapp3.1/Koliko_najvecjih.csproj.AssemblyReference.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Koliko_najvecjih/obj/Debug/netcoreapp3.1/Koliko_najvecjih.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Koliko_najvecjih/obj/Debug/netcoreapp3.1/Koliko_najvecjih.AssemblyInfoInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Koliko_najvecjih/obj/Debug/netcoreapp3.1/Koliko_najvecjih.AssemblyInfo.cs
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Koliko_najvecjih/obj/Debug/netcoreapp3.1/Koliko_najvecjih.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Koliko_najvecjih/obj/Debug/netcoreapp3.1/Koliko_najvecjih.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Koliko_najvecjih/obj/Debug/netcoreapp3.1/Koliko_najvecjih.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Koliko_najvecjih/obj/Debug/netcoreapp3.1/Koliko_najvecjih.genruntimeconfig.cache

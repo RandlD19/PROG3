@@ -1,0 +1,13 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Zoprna_sedmica/bin/Debug/netcoreapp3.1/Zoprna_sedmica.deps.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Zoprna_sedmica/bin/Debug/netcoreapp3.1/Zoprna_sedmica.runtimeconfig.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Zoprna_sedmica/bin/Debug/netcoreapp3.1/Zoprna_sedmica.runtimeconfig.dev.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Zoprna_sedmica/bin/Debug/netcoreapp3.1/Zoprna_sedmica.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Zoprna_sedmica/bin/Debug/netcoreapp3.1/Zoprna_sedmica.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Zoprna_sedmica/obj/Debug/netcoreapp3.1/Zoprna_sedmica.csproj.AssemblyReference.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Zoprna_sedmica/obj/Debug/netcoreapp3.1/Zoprna_sedmica.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Zoprna_sedmica/obj/Debug/netcoreapp3.1/Zoprna_sedmica.AssemblyInfoInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Zoprna_sedmica/obj/Debug/netcoreapp3.1/Zoprna_sedmica.AssemblyInfo.cs
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Zoprna_sedmica/obj/Debug/netcoreapp3.1/Zoprna_sedmica.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Zoprna_sedmica/obj/Debug/netcoreapp3.1/Zoprna_sedmica.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Zoprna_sedmica/obj/Debug/netcoreapp3.1/Zoprna_sedmica.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Zoprna_sedmica/obj/Debug/netcoreapp3.1/Zoprna_sedmica.genruntimeconfig.cache
