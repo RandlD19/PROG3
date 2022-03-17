@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zoprna_sedmica", "Zoprna_se
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mnozimo_se", "Mnozimo_se\Mnozimo_se.csproj", "{1A892263-B56D-472D-99D7-84F45C8F316D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Viva_La_Difference", "Viva_La_Difference\Viva_La_Difference.csproj", "{426A606B-AB6C-4637-9FBD-4AEC83AF2352}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1A892263-B56D-472D-99D7-84F45C8F316D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A892263-B56D-472D-99D7-84F45C8F316D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A892263-B56D-472D-99D7-84F45C8F316D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426A606B-AB6C-4637-9FBD-4AEC83AF2352}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426A606B-AB6C-4637-9FBD-4AEC83AF2352}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426A606B-AB6C-4637-9FBD-4AEC83AF2352}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426A606B-AB6C-4637-9FBD-4AEC83AF2352}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

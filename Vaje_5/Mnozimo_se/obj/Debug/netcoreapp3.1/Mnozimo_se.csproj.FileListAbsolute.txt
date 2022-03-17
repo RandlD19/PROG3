@@ -1,0 +1,13 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Mnozimo_se/bin/Debug/netcoreapp3.1/Mnozimo_se.deps.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Mnozimo_se/bin/Debug/netcoreapp3.1/Mnozimo_se.runtimeconfig.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Mnozimo_se/bin/Debug/netcoreapp3.1/Mnozimo_se.runtimeconfig.dev.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Mnozimo_se/bin/Debug/netcoreapp3.1/Mnozimo_se.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Mnozimo_se/bin/Debug/netcoreapp3.1/Mnozimo_se.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Mnozimo_se/obj/Debug/netcoreapp3.1/Mnozimo_se.csproj.AssemblyReference.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Mnozimo_se/obj/Debug/netcoreapp3.1/Mnozimo_se.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Mnozimo_se/obj/Debug/netcoreapp3.1/Mnozimo_se.AssemblyInfoInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Mnozimo_se/obj/Debug/netcoreapp3.1/Mnozimo_se.AssemblyInfo.cs
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Mnozimo_se/obj/Debug/netcoreapp3.1/Mnozimo_se.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Mnozimo_se/obj/Debug/netcoreapp3.1/Mnozimo_se.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Mnozimo_se/obj/Debug/netcoreapp3.1/Mnozimo_se.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Mnozimo_se/obj/Debug/netcoreapp3.1/Mnozimo_se.genruntimeconfig.cache

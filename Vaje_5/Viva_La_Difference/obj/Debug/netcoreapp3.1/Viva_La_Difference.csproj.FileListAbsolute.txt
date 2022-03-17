@@ -1,0 +1,13 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Viva_La_Difference/bin/Debug/netcoreapp3.1/Viva_La_Difference.deps.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Viva_La_Difference/bin/Debug/netcoreapp3.1/Viva_La_Difference.runtimeconfig.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Viva_La_Difference/bin/Debug/netcoreapp3.1/Viva_La_Difference.runtimeconfig.dev.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Viva_La_Difference/bin/Debug/netcoreapp3.1/Viva_La_Difference.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Viva_La_Difference/bin/Debug/netcoreapp3.1/Viva_La_Difference.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Viva_La_Difference/obj/Debug/netcoreapp3.1/Viva_La_Difference.csproj.AssemblyReference.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Viva_La_Difference/obj/Debug/netcoreapp3.1/Viva_La_Difference.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Viva_La_Difference/obj/Debug/netcoreapp3.1/Viva_La_Difference.AssemblyInfoInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Viva_La_Difference/obj/Debug/netcoreapp3.1/Viva_La_Difference.AssemblyInfo.cs
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Viva_La_Difference/obj/Debug/netcoreapp3.1/Viva_La_Difference.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Viva_La_Difference/obj/Debug/netcoreapp3.1/Viva_La_Difference.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Viva_La_Difference/obj/Debug/netcoreapp3.1/Viva_La_Difference.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Viva_La_Difference/obj/Debug/netcoreapp3.1/Viva_La_Difference.genruntimeconfig.cache
