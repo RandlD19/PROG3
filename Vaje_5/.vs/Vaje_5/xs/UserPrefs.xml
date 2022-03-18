@@ -1,22 +1,24 @@
-﻿<Properties StartupConfiguration="{1A892263-B56D-472D-99D7-84F45C8F316D}|Default">
+﻿<Properties StartupConfiguration="{426A606B-AB6C-4637-9FBD-4AEC83AF2352}|Default">
   <MonoDevelop.Ide.ItemProperties.Zoprna__sedmica PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Viva__La__Difference FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Viva_La_Difference/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.Viva__La__Difference PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Koliko_najvecjih/Program.cs">
     <Files>
       <File FileName="Koliko_najvecjih/Program.cs" Line="5" Column="18" />
       <File FileName="Zoprna_sedmica/Program.cs" />
       <File FileName="Mnozimo_se/Program.cs" Line="58" Column="49" />
-      <File FileName="Viva_La_Difference/Program.cs" Line="1" Column="1" />
+      <File FileName="Viva_La_Difference/Program.cs" Line="39" Column="18" />
+      <File FileName="Osamljeni_sumniki/Program.cs" Line="9" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Vaje_5" expanded="True">
-            <Node name="Koliko_najvecjih" expanded="True" />
-            <Node name="Mnozimo_se" expanded="True" />
-            <Node name="Viva_La_Difference" expanded="True">
+            <Node name="Koliko_najvecjih" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
+            <Node name="Mnozimo_se" expanded="True" />
+            <Node name="Osamljeni_sumniki" expanded="True" />
+            <Node name="Viva_La_Difference" expanded="True" />
             <Node name="Zoprna_sedmica" expanded="True" />
           </Node>
         </State>
@@ -24,6 +26,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.Mnozimo__se PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Osamljeni__sumniki FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

@@ -1,0 +1,13 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Osamljeni_sumniki/bin/Debug/netcoreapp3.1/Osamljeni_sumniki.deps.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Osamljeni_sumniki/bin/Debug/netcoreapp3.1/Osamljeni_sumniki.runtimeconfig.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Osamljeni_sumniki/bin/Debug/netcoreapp3.1/Osamljeni_sumniki.runtimeconfig.dev.json
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Osamljeni_sumniki/bin/Debug/netcoreapp3.1/Osamljeni_sumniki.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Osamljeni_sumniki/bin/Debug/netcoreapp3.1/Osamljeni_sumniki.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Osamljeni_sumniki/obj/Debug/netcoreapp3.1/Osamljeni_sumniki.csproj.AssemblyReference.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Osamljeni_sumniki/obj/Debug/netcoreapp3.1/Osamljeni_sumniki.GeneratedMSBuildEditorConfig.editorconfig
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Osamljeni_sumniki/obj/Debug/netcoreapp3.1/Osamljeni_sumniki.AssemblyInfoInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Osamljeni_sumniki/obj/Debug/netcoreapp3.1/Osamljeni_sumniki.AssemblyInfo.cs
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Osamljeni_sumniki/obj/Debug/netcoreapp3.1/Osamljeni_sumniki.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Osamljeni_sumniki/obj/Debug/netcoreapp3.1/Osamljeni_sumniki.dll
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Osamljeni_sumniki/obj/Debug/netcoreapp3.1/Osamljeni_sumniki.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_5/Osamljeni_sumniki/obj/Debug/netcoreapp3.1/Osamljeni_sumniki.genruntimeconfig.cache
