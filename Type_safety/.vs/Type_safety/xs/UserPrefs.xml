@@ -1,26 +1,28 @@
 ﻿<Properties StartupConfiguration="{108B8097-DC34-4D81-AC7F-5BCF8C565D4C}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Type_safety/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.Type__safety PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.predstavitev FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="predstavitev/Program.cs">
     <Files>
       <File FileName="Type_safety/Program.cs" Line="42" Column="134" />
+      <File FileName="predstavitev/Program.cs" Line="272" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Type_safety" expanded="True">
+            <Node name="predstavitev" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
             <Node name="Type_safety" expanded="True" />
           </Node>
         </State>
       </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Type__safety PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
 </Properties>
