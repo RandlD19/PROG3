@@ -1,5 +1,8 @@
 ﻿using System;
 using System.Linq;
+using System.Collections.Generic;
+
+
 namespace Razredi
 {
     public class Registracija
@@ -97,6 +100,57 @@ namespace Razredi
             }
 
             return tab;
+        }
+
+        public static string[] min_max_obmocje(Registracija[] tab)
+        {
+            string[] min_max = new string[2];
+            Dictionary<string, int> slovar = new Dictionary<string, int>();
+            foreach (Registracija registracija in tab)
+            {
+                if (slovar.ContainsKey(registracija.Prvi_del))
+                {
+                    slovar[registracija.Prvi_del]++;
+                }
+                else
+                {
+                    slovar[registracija.Prvi_del] = 1;
+                }
+            }
+
+            int max = 0;
+            int min = 100;
+            foreach (string kljuc in slovar.Keys)
+            {
+                if (slovar[kljuc] > max)
+                {
+                    min_max[1] = kljuc;
+                    max = slovar[kljuc];
+                }
+                if (slovar[kljuc] < min)
+                {
+                    min_max[0] = kljuc;
+                    min = slovar[kljuc];
+                }
+            }
+
+            return min_max;
+        }
+
+        public static Registracija[] Nova_tab_brez(string[] obmocja, Registracija[] prejsna)
+        {
+            Registracija[] nova_tab = new Registracija[prejsna.Length];
+            int i = 0;
+            foreach (Registracija registracija in prejsna)
+            {
+                if (obmocja.Contains(registracija.Prvi_del))
+                {
+                    nova_tab[i] = registracija;
+                    i++;
+                }
+
+            }
+            return nova_tab;
         }
 
     }
