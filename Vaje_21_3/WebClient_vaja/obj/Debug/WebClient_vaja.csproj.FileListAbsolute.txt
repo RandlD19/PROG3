@@ -1,0 +1,8 @@
+C:\Users\Uporabnik\source\repos\Vaje_21_3\WebClient_vaja\bin\Debug\WebClient_vaja.exe.config
+C:\Users\Uporabnik\source\repos\Vaje_21_3\WebClient_vaja\bin\Debug\WebClient_vaja.exe
+C:\Users\Uporabnik\source\repos\Vaje_21_3\WebClient_vaja\bin\Debug\WebClient_vaja.pdb
+C:\Users\Uporabnik\source\repos\Vaje_21_3\WebClient_vaja\obj\Debug\WebClient_vaja.csproj.AssemblyReference.cache
+C:\Users\Uporabnik\source\repos\Vaje_21_3\WebClient_vaja\obj\Debug\WebClient_vaja.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uporabnik\source\repos\Vaje_21_3\WebClient_vaja\obj\Debug\WebClient_vaja.csproj.CoreCompileInputs.cache
+C:\Users\Uporabnik\source\repos\Vaje_21_3\WebClient_vaja\obj\Debug\WebClient_vaja.exe
+C:\Users\Uporabnik\source\repos\Vaje_21_3\WebClient_vaja\obj\Debug\WebClient_vaja.pdb
