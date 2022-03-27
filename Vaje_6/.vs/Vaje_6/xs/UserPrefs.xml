@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{0E020121-E5AE-4D49-9A7A-7E3471832680}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Kosarica/Kolo.cs">
+    <Files>
+      <File FileName="Kosarica/Registracija.cs" Line="86" Column="102" />
+      <File FileName="Kosarica/Kosarica.cs" Line="1" Column="1" />
+      <File FileName="Kosarica/Program.cs" Line="1" Column="1" />
+      <File FileName="Kosarica/Kolo.cs" Line="47" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Vaje_6" expanded="True">
+            <Node name="Testi" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="Kolo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Testi PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
