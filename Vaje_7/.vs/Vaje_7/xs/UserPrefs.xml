@@ -1,25 +1,35 @@
-﻿<Properties StartupConfiguration="{143BF2B8-F2E7-44B5-9E7F-DF99294DCBA4}|Default">
+﻿<Properties StartupConfiguration="{81329C85-3349-4FA3-959A-D518550E434B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Struktura FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.Naloge__iz__OOP__IA PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Levi_in_desni/MainWindow.cs">
+  <MonoDevelop.Ide.ItemProperties.Regularni__izrazi FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Regularni_izrazi/Program.cs">
     <Files>
       <File FileName="Stevec_klikov/Program.cs" Line="1" Column="1" />
       <File FileName="Stevec_klikov/MainWindow.cs" Line="21" Column="21" />
-      <File FileName="Naloge_iz_OOP_IA/Program.cs" Line="1" Column="1" />
+      <File FileName="Naloge_iz_OOP_IA/Program.cs" Line="102" Column="56" />
       <File FileName="Levi_in_desni/Program.cs" Line="1" Column="1" />
-      <File FileName="Levi_in_desni/MainWindow.cs" Line="1" Column="1" />
+      <File FileName="Naloge_iz_OOP_IA/Bager.cs" Line="1" Column="1" />
+      <File FileName="JaggedArray/Program.cs" Line="8" Column="10" />
+      <File FileName="Struktura/Program.cs" Line="1" Column="1" />
+      <File FileName="Struktura/Tocka.cs" Line="6" Column="9" />
+      <File FileName="Struktura/TockaRazred.cs" Line="9" Column="27" />
+      <File FileName="Regularni_izrazi/Program.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Vaje_7" expanded="True">
-            <Node name="Levi_in_desni" expanded="True">
-              <Node name="MainWindow.cs" selected="True" />
-            </Node>
+            <Node name="JaggedArray" expanded="True" />
+            <Node name="Levi_in_desni" expanded="True" />
             <Node name="Naloge_iz_OOP_IA" expanded="True" />
             <Node name="Naloge_z_izpitov_P3_OOP" expanded="True" />
+            <Node name="Regularni_izrazi" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
             <Node name="Stevec_klikov" expanded="True">
               <Node name="UserInterface" expanded="True" />
             </Node>
+            <Node name="Struktura" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -28,7 +38,8 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Urejanje__objektov PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
-  <MonoDevelop.Ide.ItemProperties.Levi__in__desni FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Levi__in__desni PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.JaggedArray PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

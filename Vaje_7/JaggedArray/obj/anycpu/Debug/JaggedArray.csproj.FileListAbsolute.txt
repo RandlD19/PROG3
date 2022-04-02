@@ -1,0 +1,5 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/JaggedArray/bin/Debug/JaggedArray.exe
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/JaggedArray/bin/Debug/JaggedArray.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/JaggedArray/obj/anycpu/Debug/JaggedArray.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/JaggedArray/obj/anycpu/Debug/JaggedArray.exe
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/JaggedArray/obj/anycpu/Debug/JaggedArray.pdb

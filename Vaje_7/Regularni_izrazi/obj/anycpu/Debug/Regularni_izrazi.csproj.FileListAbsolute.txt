@@ -1,0 +1,5 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Regularni_izrazi/bin/Debug/Regularni_izrazi.exe
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Regularni_izrazi/bin/Debug/Regularni_izrazi.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Regularni_izrazi/obj/anycpu/Debug/Regularni_izrazi.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Regularni_izrazi/obj/anycpu/Debug/Regularni_izrazi.exe
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Regularni_izrazi/obj/anycpu/Debug/Regularni_izrazi.pdb
