@@ -1,0 +1,6 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Stevec_klikov/bin/Debug/Stevec_klikov.exe
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Stevec_klikov/bin/Debug/Stevec_klikov.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Stevec_klikov/obj/anycpu/Debug/Stevec_klikov.csproj.AssemblyReference.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Stevec_klikov/obj/anycpu/Debug/Stevec_klikov.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Stevec_klikov/obj/anycpu/Debug/Stevec_klikov.exe
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Stevec_klikov/obj/anycpu/Debug/Stevec_klikov.pdb

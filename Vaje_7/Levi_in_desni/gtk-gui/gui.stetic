@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<stetic-interface>
+  <configuration>
+    <images-root-path>..</images-root-path>
+  </configuration>
+  <import>
+    <widget-library name="glade-sharp, Version=2.12.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f" />
+    <widget-library name="../bin/Debug/Levi_in_desni.exe" internal="true" />
+  </import>
+  <widget class="Gtk.Window" id="MainWindow" design-size="419 300">
+    <property name="MemberName" />
+    <property name="Title" translatable="yes">MainWindow</property>
+    <property name="WindowPosition">CenterOnParent</property>
+    <signal name="DeleteEvent" handler="OnDeleteEvent" />
+    <child>
+      <widget class="Gtk.Fixed" id="fixed8">
+        <property name="MemberName" />
+        <property name="HasWindow">False</property>
+        <child>
+          <widget class="Gtk.Button" id="DesniGumb">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Desni</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Pressed" handler="DesniPritinjen" />
+            <signal name="Released" handler="DesniSpuscen" />
+          </widget>
+          <packing>
+            <property name="X">294</property>
+            <property name="Y">130</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Button" id="LeviGumb">
+            <property name="MemberName" />
+            <property name="CanFocus">True</property>
+            <property name="Type">TextOnly</property>
+            <property name="Label" translatable="yes">Levi</property>
+            <property name="UseUnderline">True</property>
+            <signal name="Pressed" handler="LeviPritisnjen" />
+            <signal name="Released" handler="LeviSpuscen" />
+          </widget>
+          <packing>
+            <property name="X">59</property>
+            <property name="Y">130</property>
+          </packing>
+        </child>
+        <child>
+          <widget class="Gtk.Label" id="label2">
+            <property name="MemberName" />
+          </widget>
+          <packing>
+            <property name="X">193</property>
+            <property name="Y">141</property>
+          </packing>
+        </child>
+      </widget>
+    </child>
+  </widget>
+</stetic-interface>

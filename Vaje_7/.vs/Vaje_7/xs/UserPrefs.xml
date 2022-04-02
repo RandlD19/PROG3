@@ -1,19 +1,25 @@
-﻿<Properties StartupConfiguration="{9FDBAE3C-2832-4178-A648-72FA8EB032C3}|Default">
+﻿<Properties StartupConfiguration="{143BF2B8-F2E7-44B5-9E7F-DF99294DCBA4}|Default">
   <MonoDevelop.Ide.ItemProperties.Naloge__iz__OOP__IA PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Naloge_iz_OOP_IA/Bager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Levi_in_desni/MainWindow.cs">
     <Files>
-      <File FileName="Naloge_iz_OOP_IA/Program.cs" Line="22" Column="18" />
-      <File FileName="Naloge_iz_OOP_IA/Bager.cs" Line="131" Column="21" />
+      <File FileName="Stevec_klikov/Program.cs" Line="1" Column="1" />
+      <File FileName="Stevec_klikov/MainWindow.cs" Line="21" Column="21" />
+      <File FileName="Naloge_iz_OOP_IA/Program.cs" Line="1" Column="1" />
+      <File FileName="Levi_in_desni/Program.cs" Line="1" Column="1" />
+      <File FileName="Levi_in_desni/MainWindow.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Vaje_7" expanded="True">
-            <Node name="Naloge_iz_OOP_IA" expanded="True">
-              <Node name="Bager.cs" selected="True" />
+            <Node name="Levi_in_desni" expanded="True">
+              <Node name="MainWindow.cs" selected="True" />
             </Node>
+            <Node name="Naloge_iz_OOP_IA" expanded="True" />
             <Node name="Naloge_z_izpitov_P3_OOP" expanded="True" />
-            <Node name="Urejanje_objektov" expanded="True" />
+            <Node name="Stevec_klikov" expanded="True">
+              <Node name="UserInterface" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -22,9 +28,11 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.Urejanje__objektov PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.ItemProperties.Levi__in__desni FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Stevec__klikov PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Naloge__z__izpitov__P3__OOP PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

@@ -1,0 +1,5 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Levi_in_desni/bin/Debug/Levi_in_desni.exe
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Levi_in_desni/bin/Debug/Levi_in_desni.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Levi_in_desni/obj/anycpu/Debug/Levi_in_desni.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Levi_in_desni/obj/anycpu/Debug/Levi_in_desni.exe
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Levi_in_desni/obj/anycpu/Debug/Levi_in_desni.pdb

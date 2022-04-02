@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naloge_z_izpitov_P3_OOP", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naloge_iz_OOP_IA", "Naloge_iz_OOP_IA\Naloge_iz_OOP_IA.csproj", "{9FDBAE3C-2832-4178-A648-72FA8EB032C3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stevec_klikov", "Stevec_klikov\Stevec_klikov.csproj", "{143BF2B8-F2E7-44B5-9E7F-DF99294DCBA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Levi_in_desni", "Levi_in_desni\Levi_in_desni.csproj", "{64688D2F-275A-418C-8E16-1305F685E48C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|anycpu = Debug|anycpu
@@ -27,6 +31,14 @@ Global
 		{9FDBAE3C-2832-4178-A648-72FA8EB032C3}.Debug|anycpu.Build.0 = Debug|anycpu
 		{9FDBAE3C-2832-4178-A648-72FA8EB032C3}.Release|anycpu.ActiveCfg = Release|anycpu
 		{9FDBAE3C-2832-4178-A648-72FA8EB032C3}.Release|anycpu.Build.0 = Release|anycpu
+		{143BF2B8-F2E7-44B5-9E7F-DF99294DCBA4}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{143BF2B8-F2E7-44B5-9E7F-DF99294DCBA4}.Debug|anycpu.Build.0 = Debug|anycpu
+		{143BF2B8-F2E7-44B5-9E7F-DF99294DCBA4}.Release|anycpu.ActiveCfg = Release|anycpu
+		{143BF2B8-F2E7-44B5-9E7F-DF99294DCBA4}.Release|anycpu.Build.0 = Release|anycpu
+		{64688D2F-275A-418C-8E16-1305F685E48C}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{64688D2F-275A-418C-8E16-1305F685E48C}.Debug|anycpu.Build.0 = Debug|anycpu
+		{64688D2F-275A-418C-8E16-1305F685E48C}.Release|anycpu.ActiveCfg = Release|anycpu
+		{64688D2F-275A-418C-8E16-1305F685E48C}.Release|anycpu.Build.0 = Release|anycpu
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
