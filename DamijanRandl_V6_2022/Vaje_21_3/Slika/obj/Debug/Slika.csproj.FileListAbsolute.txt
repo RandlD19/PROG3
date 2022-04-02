@@ -1,0 +1,8 @@
+C:\Users\Uporabnik\source\repos\Vaje_21_3\Slika\bin\Debug\Slika.exe.config
+C:\Users\Uporabnik\source\repos\Vaje_21_3\Slika\bin\Debug\Slika.exe
+C:\Users\Uporabnik\source\repos\Vaje_21_3\Slika\bin\Debug\Slika.pdb
+C:\Users\Uporabnik\source\repos\Vaje_21_3\Slika\obj\Debug\Slika.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uporabnik\source\repos\Vaje_21_3\Slika\obj\Debug\Slika.csproj.CoreCompileInputs.cache
+C:\Users\Uporabnik\source\repos\Vaje_21_3\Slika\obj\Debug\Slika.exe
+C:\Users\Uporabnik\source\repos\Vaje_21_3\Slika\obj\Debug\Slika.pdb
+C:\Users\Uporabnik\source\repos\Vaje_21_3\Slika\obj\Debug\Slika.csproj.AssemblyReference.cache

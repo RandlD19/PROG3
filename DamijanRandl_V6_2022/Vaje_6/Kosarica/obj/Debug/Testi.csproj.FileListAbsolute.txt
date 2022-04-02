@@ -1,0 +1,6 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_6/Kosarica/obj/Debug/Testi.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_6/Kosarica/bin/Debug/Kosarica.exe
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_6/Kosarica/bin/Debug/Kosarica.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_6/Kosarica/obj/Debug/Kosarica.exe
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_6/Kosarica/obj/Debug/Kosarica.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_6/Kosarica/obj/Debug/Testi.csproj.AssemblyReference.cache

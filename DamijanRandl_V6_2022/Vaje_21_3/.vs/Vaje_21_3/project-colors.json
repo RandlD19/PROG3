@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a075012d-4d03-45d5-8bd3-cfac8bb83372": {
+      "ProjectGuid": "a075012d-4d03-45d5-8bd3-cfac8bb83372",
+      "DisplayName": "Vaje_21_3",
+      "ColorIndex": 0
+    },
+    "3d2fb4ba-85f3-40b2-b420-c8b5a78b41e8": {
+      "ProjectGuid": "3d2fb4ba-85f3-40b2-b420-c8b5a78b41e8",
+      "DisplayName": "TestVozilo",
+      "ColorIndex": 1
+    },
+    "558b7b2d-61a4-46d8-8608-c23fd18c5a79": {
+      "ProjectGuid": "558b7b2d-61a4-46d8-8608-c23fd18c5a79",
+      "DisplayName": "Slika",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "06b5d1f1-f9f7-4725-9ee4-d26481912ad8": {
+      "ProjectGuid": "06b5d1f1-f9f7-4725-9ee4-d26481912ad8",
+      "DisplayName": "GoToSwitch",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

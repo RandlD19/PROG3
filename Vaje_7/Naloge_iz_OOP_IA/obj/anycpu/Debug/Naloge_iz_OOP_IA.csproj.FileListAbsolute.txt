@@ -1,0 +1,5 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Naloge_iz_OOP_IA/bin/Debug/Naloge_iz_OOP_IA.exe
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Naloge_iz_OOP_IA/bin/Debug/Naloge_iz_OOP_IA.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Naloge_iz_OOP_IA/obj/anycpu/Debug/Naloge_iz_OOP_IA.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Naloge_iz_OOP_IA/obj/anycpu/Debug/Naloge_iz_OOP_IA.exe
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Naloge_iz_OOP_IA/obj/anycpu/Debug/Naloge_iz_OOP_IA.pdb

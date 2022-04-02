@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{A075012D-4D03-45D5-8BD3-CFAC8BB83372}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Vaje_21_3/Class1.cs">
+    <Files>
+      <File FileName="GoToSwitch/Program.cs" Line="1" Column="1" />
+      <File FileName="Slika/Program.cs" />
+      <File FileName="TestVozilo/UnitTest1.cs" />
+      <File FileName="Vaje_21_3/Program.cs" />
+      <File FileName="WebClient_vaja/Program.cs" />
+      <File FileName="Vaje_21_3/Class1.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Vaje_21_3" expanded="True">
+            <Node name="Vaje_21_3" expanded="True">
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Vaje__21__3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

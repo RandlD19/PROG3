@@ -1,0 +1,8 @@
+C:\Users\Uporabnik\source\repos\Vaje_21_3\Vaje_21_3\bin\Debug\Vaje_21_3.exe.config
+C:\Users\Uporabnik\source\repos\Vaje_21_3\Vaje_21_3\bin\Debug\Vaje_21_3.exe
+C:\Users\Uporabnik\source\repos\Vaje_21_3\Vaje_21_3\bin\Debug\Vaje_21_3.pdb
+C:\Users\Uporabnik\source\repos\Vaje_21_3\Vaje_21_3\obj\Debug\Vaje_21_3.csproj.AssemblyReference.cache
+C:\Users\Uporabnik\source\repos\Vaje_21_3\Vaje_21_3\obj\Debug\Vaje_21_3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uporabnik\source\repos\Vaje_21_3\Vaje_21_3\obj\Debug\Vaje_21_3.csproj.CoreCompileInputs.cache
+C:\Users\Uporabnik\source\repos\Vaje_21_3\Vaje_21_3\obj\Debug\Vaje_21_3.exe
+C:\Users\Uporabnik\source\repos\Vaje_21_3\Vaje_21_3\obj\Debug\Vaje_21_3.pdb

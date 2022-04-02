@@ -1,0 +1,6 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Urejanje_objektov/obj/Debug/Urejanje_objektov.csproj.AssemblyReference.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Urejanje_objektov/obj/Debug/Urejanje_objektov.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Urejanje_objektov/bin/Debug/Urejanje_objektov.exe
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Urejanje_objektov/bin/Debug/Urejanje_objektov.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Urejanje_objektov/obj/Debug/Urejanje_objektov.exe
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Urejanje_objektov/obj/Debug/Urejanje_objektov.pdb

@@ -1,0 +1,6 @@
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Naloge_z_izpitov_P3_OOP/bin/Debug/Naloge_z_izpitov_P3_OOP.exe
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Naloge_z_izpitov_P3_OOP/bin/Debug/Naloge_z_izpitov_P3_OOP.pdb
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Naloge_z_izpitov_P3_OOP/obj/anycpu/Debug/Naloge_z_izpitov_P3_OOP.csproj.AssemblyReference.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Naloge_z_izpitov_P3_OOP/obj/anycpu/Debug/Naloge_z_izpitov_P3_OOP.csproj.CoreCompileInputs.cache
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Naloge_z_izpitov_P3_OOP/obj/anycpu/Debug/Naloge_z_izpitov_P3_OOP.exe
+/Users/damijanrandl/Desktop/FMF/3_letnik/PROG3/Vaje/git/Vaje_7/Naloge_z_izpitov_P3_OOP/obj/anycpu/Debug/Naloge_z_izpitov_P3_OOP.pdb

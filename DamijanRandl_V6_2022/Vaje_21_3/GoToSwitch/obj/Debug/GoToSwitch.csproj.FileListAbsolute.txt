@@ -1,0 +1,7 @@
+C:\Users\Uporabnik\source\repos\Vaje_21_3\GoToSwitch\bin\Debug\GoToSwitch.exe.config
+C:\Users\Uporabnik\source\repos\Vaje_21_3\GoToSwitch\bin\Debug\GoToSwitch.exe
+C:\Users\Uporabnik\source\repos\Vaje_21_3\GoToSwitch\bin\Debug\GoToSwitch.pdb
+C:\Users\Uporabnik\source\repos\Vaje_21_3\GoToSwitch\obj\Debug\GoToSwitch.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uporabnik\source\repos\Vaje_21_3\GoToSwitch\obj\Debug\GoToSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Uporabnik\source\repos\Vaje_21_3\GoToSwitch\obj\Debug\GoToSwitch.exe
+C:\Users\Uporabnik\source\repos\Vaje_21_3\GoToSwitch\obj\Debug\GoToSwitch.pdb

@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{9FDBAE3C-2832-4178-A648-72FA8EB032C3}|Default">
+  <MonoDevelop.Ide.ItemProperties.Naloge__iz__OOP__IA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Naloge_iz_OOP_IA/Bager.cs">
+    <Files>
+      <File FileName="Naloge_iz_OOP_IA/Program.cs" Line="22" Column="18" />
+      <File FileName="Naloge_iz_OOP_IA/Bager.cs" Line="131" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Vaje_7" expanded="True">
+            <Node name="Naloge_iz_OOP_IA" expanded="True">
+              <Node name="Bager.cs" selected="True" />
+            </Node>
+            <Node name="Naloge_z_izpitov_P3_OOP" expanded="True" />
+            <Node name="Urejanje_objektov" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Urejanje__objektov PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Naloge__z__izpitov__P3__OOP PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
