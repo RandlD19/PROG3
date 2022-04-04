@@ -1,0 +1,16 @@
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Odstevalnik\bin\Debug\netcoreapp3.1\Odstevalnik.exe
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Odstevalnik\bin\Debug\netcoreapp3.1\Odstevalnik.deps.json
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Odstevalnik\bin\Debug\netcoreapp3.1\Odstevalnik.runtimeconfig.json
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Odstevalnik\bin\Debug\netcoreapp3.1\Odstevalnik.runtimeconfig.dev.json
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Odstevalnik\bin\Debug\netcoreapp3.1\Odstevalnik.dll
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Odstevalnik\bin\Debug\netcoreapp3.1\Odstevalnik.pdb
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Odstevalnik\obj\Debug\netcoreapp3.1\Odstevalnik.csproj.AssemblyReference.cache
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Odstevalnik\obj\Debug\netcoreapp3.1\Odstevalnik.Casovnik.resources
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Odstevalnik\obj\Debug\netcoreapp3.1\Odstevalnik.csproj.GenerateResource.cache
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Odstevalnik\obj\Debug\netcoreapp3.1\Odstevalnik.GeneratedMSBuildEditorConfig.editorconfig
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Odstevalnik\obj\Debug\netcoreapp3.1\Odstevalnik.AssemblyInfoInputs.cache
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Odstevalnik\obj\Debug\netcoreapp3.1\Odstevalnik.AssemblyInfo.cs
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Odstevalnik\obj\Debug\netcoreapp3.1\Odstevalnik.csproj.CoreCompileInputs.cache
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Odstevalnik\obj\Debug\netcoreapp3.1\Odstevalnik.dll
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Odstevalnik\obj\Debug\netcoreapp3.1\Odstevalnik.pdb
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Odstevalnik\obj\Debug\netcoreapp3.1\Odstevalnik.genruntimeconfig.cache

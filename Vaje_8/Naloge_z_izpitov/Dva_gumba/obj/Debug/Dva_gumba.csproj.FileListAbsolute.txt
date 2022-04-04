@@ -1,0 +1,10 @@
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Dva_gumba\bin\Debug\Dva_gumba.exe.config
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Dva_gumba\bin\Debug\Dva_gumba.exe
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Dva_gumba\bin\Debug\Dva_gumba.pdb
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Dva_gumba\obj\Debug\Dva_gumba.csproj.AssemblyReference.cache
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Dva_gumba\obj\Debug\Dva_gumba.Form1.resources
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Dva_gumba\obj\Debug\Dva_gumba.Properties.Resources.resources
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Dva_gumba\obj\Debug\Dva_gumba.csproj.GenerateResource.cache
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Dva_gumba\obj\Debug\Dva_gumba.csproj.CoreCompileInputs.cache
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Dva_gumba\obj\Debug\Dva_gumba.exe
+U:\FMF\3_letnik\PROG3\git\Naloge_z_izpitov\Dva_gumba\obj\Debug\Dva_gumba.pdb
