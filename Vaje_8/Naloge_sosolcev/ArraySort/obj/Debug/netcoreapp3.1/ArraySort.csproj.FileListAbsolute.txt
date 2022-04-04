@@ -1,0 +1,14 @@
+U:\FMF\3_letnik\PROG3\git\Naloge_sosolcev\ArraySort\bin\Debug\netcoreapp3.1\ArraySort.exe
+U:\FMF\3_letnik\PROG3\git\Naloge_sosolcev\ArraySort\bin\Debug\netcoreapp3.1\ArraySort.deps.json
+U:\FMF\3_letnik\PROG3\git\Naloge_sosolcev\ArraySort\bin\Debug\netcoreapp3.1\ArraySort.runtimeconfig.json
+U:\FMF\3_letnik\PROG3\git\Naloge_sosolcev\ArraySort\bin\Debug\netcoreapp3.1\ArraySort.runtimeconfig.dev.json
+U:\FMF\3_letnik\PROG3\git\Naloge_sosolcev\ArraySort\bin\Debug\netcoreapp3.1\ArraySort.dll
+U:\FMF\3_letnik\PROG3\git\Naloge_sosolcev\ArraySort\bin\Debug\netcoreapp3.1\ArraySort.pdb
+U:\FMF\3_letnik\PROG3\git\Naloge_sosolcev\ArraySort\obj\Debug\netcoreapp3.1\ArraySort.csproj.AssemblyReference.cache
+U:\FMF\3_letnik\PROG3\git\Naloge_sosolcev\ArraySort\obj\Debug\netcoreapp3.1\ArraySort.GeneratedMSBuildEditorConfig.editorconfig
+U:\FMF\3_letnik\PROG3\git\Naloge_sosolcev\ArraySort\obj\Debug\netcoreapp3.1\ArraySort.AssemblyInfoInputs.cache
+U:\FMF\3_letnik\PROG3\git\Naloge_sosolcev\ArraySort\obj\Debug\netcoreapp3.1\ArraySort.AssemblyInfo.cs
+U:\FMF\3_letnik\PROG3\git\Naloge_sosolcev\ArraySort\obj\Debug\netcoreapp3.1\ArraySort.csproj.CoreCompileInputs.cache
+U:\FMF\3_letnik\PROG3\git\Naloge_sosolcev\ArraySort\obj\Debug\netcoreapp3.1\ArraySort.dll
+U:\FMF\3_letnik\PROG3\git\Naloge_sosolcev\ArraySort\obj\Debug\netcoreapp3.1\ArraySort.pdb
+U:\FMF\3_letnik\PROG3\git\Naloge_sosolcev\ArraySort\obj\Debug\netcoreapp3.1\ArraySort.genruntimeconfig.cache
